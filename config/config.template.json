@@ -1,0 +1,13 @@
+{
+    "azure": {
+        "ingest-container-name": "container-name",
+        "storage-account-url": "https://storageaccountname.blob.core.windows.net/"
+    },
+    "rapid-api": {
+        "X-RapidAPI-Key": "*****",
+        "X-RapidAPI-Host": "api-baseball.p.rapidapi.com"
+    },
+    "api-baseball": {
+        "root-url": "https://api-baseball.p.rapidapi.com"
+    }
+}
